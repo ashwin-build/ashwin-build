@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**ashwin-build/ashwin-build** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech Data Science student focused on AI, GenAI, Analytics & applied ML.
 
-Here are some ideas to get you started:
+## Current Focus
+- GenAI applications
+- Retrieval-Augmented Generation (RAG)
+- ML + business analytics
+- Streamlit deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • SQL • Pandas • Scikit-learn • Streamlit • LangChain • FAISS
+
+## Featured Projects
+🚑 RAG Medical Chatbot
+🌙 Lunar Lander DQN
+📈 Loan Default Prediction
+🎵 Mood-Based Music Therapy AI
